@@ -1,0 +1,13 @@
+2025/03/03-13:32:15.220 4 Reusing MANIFEST /home/syx/AMP/automation-project/tik/chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/03-13:32:15.242 4 Recovering log #8
+2025/03/03-13:32:15.243 4 Level-0 table #10: started
+2025/03/03-13:32:15.383 4 Level-0 table #10: 18722 bytes OK
+2025/03/03-13:32:15.423 4 Delete type=0 #8
+2025/03/03-13:32:15.423 6 Compacting 4@0 + 0@1 files
+2025/03/03-13:32:15.592 6 Generated table #12@0: 76 keys, 1000368 bytes
+2025/03/03-13:32:15.592 6 Compacted 4@0 + 0@1 files => 1000368 bytes
+2025/03/03-13:32:15.699 6 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/03-13:32:15.702 6 Delete type=2 #8
+2025/03/03-13:32:15.702 6 Delete type=2 #3
+2025/03/03-13:32:15.702 6 Delete type=2 #6
+2025/03/03-13:32:15.702 6 Delete type=2 #10
