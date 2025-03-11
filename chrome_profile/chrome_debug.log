@@ -1,118 +1,113 @@
-[11321:1:0303/133811.642959:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
-[11321:1:0303/133811.643626:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
-[11322:1:0303/133811.648445:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
-[11322:1:0303/133811.648705:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
-[11242:11242:0303/133812.348342:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.portal.Secret.RetrieveSecret: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Secret” on object at path /org/freedesktop/portal/desktop
-[11242:11242:0303/133812.348429:ERROR:secret_portal_key_provider.cc(150)] Failed to retrieve secret: No response from portal.
-[11242:11242:0303/133812.373500:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.UnknownMethod: Unknown method GetActive or interface org.freedesktop.ScreenSaver.
-[11242:11242:0303/133812.380164:WARNING:idle_linux.cc(110)] None of the known D-Bus ScreenSaver services could be used.
-[11294:11294:0303/133812.442086:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
-[11294:11294:0303/133812.443572:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
-[11387:1:0303/133812.924238:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
-[11387:1:0303/133812.926723:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
-[11446:1:0303/133832.685863:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
-[11446:1:0303/133832.686205:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
-[11456:1:0303/133833.205527:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
-[11456:1:0303/133833.205735:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
-[11242:11242:0303/133833.677937:INFO:CONSOLE(36)] "Reflect is polyfilled, using `@abraham/reflection`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.3dcc9d47327ec5fde46c.js (36)
-[11242:11242:0303/133833.884648:INFO:CONSOLE(38)] "AppContext will be overwritten", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.3dcc9d47327ec5fde46c.js (38)
-[11242:11242:0303/133834.214626:INFO:CONSOLE(38)] "AppContext will be overwritten", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.3dcc9d47327ec5fde46c.js (38)
-[11242:11242:0303/133834.218522:INFO:CONSOLE(38)] "AppContext will be overwritten", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.3dcc9d47327ec5fde46c.js (38)
-[11242:11242:0303/133834.221275:INFO:CONSOLE(2)] "loadable: `loadableReady()` requires state, please use `getScriptTags` or `getScriptElements` server-side", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/vendor.8f218b88cd220caee42d.js (2)
-[11242:11242:0303/133834.277548:INFO:CONSOLE(38)] "AppContext will be overwritten", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.3dcc9d47327ec5fde46c.js (38)
-[11242:11242:0303/133834.571138:INFO:CONSOLE(1)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/npm-async-882ccf53.0f64b6dd38e4b1954638.js (1)
-[11242:11242:0303/133834.571542:INFO:CONSOLE(1)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/npm-async-882ccf53.0f64b6dd38e4b1954638.js (1)
-[11242:11242:0303/133834.571864:INFO:CONSOLE(1)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/npm-async-882ccf53.0f64b6dd38e4b1954638.js (1)
-[11242:11242:0303/133835.105543:INFO:CONSOLE(36)] "[TikTok desktop app SDK Monitor]:   turn on listening to DOWNLOAD_FILE_FINISHED failed, env is not in client.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.3dcc9d47327ec5fde46c.js (36)
-[11242:11242:0303/133835.555934:INFO:CONSOLE(1)] "%c %s color: #4D1B00; [Tea instance: default] [instance: default], every instance's api: init,  can be call only one time!", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/npm-dp-byted-tea-sdk-oversea.9fa9b862559aa53246ca.js (1)
-[11242:11242:0303/133835.854647:INFO:CONSOLE(1)] ".", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.170/webmssdk.js (1)
-[11446:15:0303/133837.263639:INFO:peer_connection_dependency_factory.cc(742)] Running WebRTC with a combined Network and Worker thread.
-[11242:11242:0303/133837.432854:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
-[11242:11242:0303/133837.523392:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
-[11242:11242:0303/133837.525841:INFO:CONSOLE(27324)] "getPubKeyBase64 from raw undefined", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
-[11242:11242:0303/133837.693608:INFO:CONSOLE(27324)] "jsrsasignPerformance duration 167 getPubKeyBase64", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
-[11242:11242:0303/133837.693858:INFO:CONSOLE(27324)] "getPubKeyBase64 from method BPbwgf+9+l21NmdNRiXIpVae7OmcIwTMEfDwZG1B+gud0J6DaYZhrHOu72WYJCzd6uqrDTYgVShUyS6n5DjaXaA=", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
-[11242:11242:0303/133837.700244:INFO:CONSOLE(5832)] "zti process sign data [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/request/umd/index.js (5832)
-[11242:11242:0303/133837.801819:INFO:CONSOLE(27324)] "sign duration 99 jsrsasign", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
-[11242:11242:0303/133837.802390:INFO:CONSOLE(27324)] "crypto sign [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
-[11242:11242:0303/133837.979908:INFO:CONSOLE(2)] "web upload is under Iframe mode", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
-[11242:11242:0303/133838.554827:INFO:CONSOLE(5832)] "request duration [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/request/umd/index.js (5832)
-[11242:11242:0303/133839.470341:INFO:CONSOLE(2)] "patch fetch", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9182.af4ca4a2.js (2)
-[11242:11242:0303/133839.471381:INFO:CONSOLE(1)] "[object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11295:11316:0303/133839.599103:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
-[11295:11316:0303/133839.610285:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
-[11446:15:0303/133840.205908:INFO:peer_connection_dependency_factory.cc(742)] Running WebRTC with a combined Network and Worker thread.
-[11242:11242:0303/133840.273868:INFO:CONSOLE(1)] ".", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.57/webmssdk.js (1)
-[11295:11316:0303/133840.319642:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133840.581187:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133840.699275:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
-[11242:11242:0303/133840.839071:INFO:CONSOLE(1)] "Refused to create a worker from 'blob:https://www.tiktok.com/06da072d-6b86-4f7e-875a-fcafbfb575af' because it violates the following Content Security Policy directive: "worker-src www.tiktok.com/business/sw.js www.tiktok.com/creator/worker/ www.tiktok.com/embed/sw.js www.tiktok.com/firebase-messaging-sw.js www.tiktok.com/help/sw.js www.tiktok.com/legal/report/verification/uploader-oversea-crc32.js www.tiktok.com/live/creator-networks/pdf.worker.min.js www.tiktok.com/live/static/player-worker/ www.tiktok.com/risk-appeal-ocr/BlinkCardWasmSDK.worker.min.js www.tiktok.com/series/worker/ www.tiktok.com/sw.js".
-", source: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMD7MlyVAQAARWTH2jPpizjiSZZ-aJ_3mltAdOfVufyNd3gqfxiLMfCCIZy0&hTc6j8Njvn--z=q (1)
-[11242:11242:0303/133840.840337:INFO:CONSOLE(1)] "[Report Only] Refused to create a worker from 'blob:https://www.tiktok.com/06da072d-6b86-4f7e-875a-fcafbfb575af' because it violates the following Content Security Policy directive: "worker-src www.tiktok.com/business/sw.js www.tiktok.com/creator/worker/ www.tiktok.com/embed/sw.js www.tiktok.com/firebase-messaging-sw.js www.tiktok.com/help/sw.js www.tiktok.com/legal/report/verification/uploader-oversea-crc32.js www.tiktok.com/live/creator-networks/pdf.worker.min.js www.tiktok.com/live/static/player-worker/ www.tiktok.com/risk-appeal-ocr/BlinkCardWasmSDK.worker.min.js www.tiktok.com/series/worker/ www.tiktok.com/sw.js".
-", source: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMD7MlyVAQAARWTH2jPpizjiSZZ-aJ_3mltAdOfVufyNd3gqfxiLMfCCIZy0&hTc6j8Njvn--z=q (1)
-[11295:11316:0303/133840.986235:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133841.096038:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133841.236240:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133841.313705:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.tiktok.com/upload?lang=en (0)
-[11242:11242:0303/133841.407623:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133841.436407:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133841.492116:INFO:CONSOLE(2)] "spooky", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
-[11242:11242:0303/133841.533542:INFO:CONSOLE(1)] "[ZTI] ready to init ZTI SDK", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11295:11316:0303/133841.753861:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133841.788870:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
-[11242:11242:0303/133841.788926:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
-[11242:11242:0303/133841.926422:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133841.960545:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11295:11316:0303/133842.132320:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11557:1:0303/133842.470550:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
-[11557:1:0303/133842.473835:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
-[11242:11242:0303/133842.716490:INFO:CONSOLE(2)] "sdk uid exp hit", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
-[11242:11242:0303/133842.717841:INFO:CONSOLE(1)] "[ZTI] enableZTI: true", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11295:11316:0303/133842.767539:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133842.772390:INFO:CONSOLE(2)] "zti sdk start", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9182.af4ca4a2.js (2)
-[11242:11242:0303/133842.772521:INFO:CONSOLE(1)] "[ZTI]: va", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133842.864173:INFO:CONSOLE(1)] ".", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.162/webmssdk.js (1)
-[11242:11242:0303/133843.207016:INFO:CONSOLE(2)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator-center-web/static/js/2772.81724dff.js (2)
-[11242:11242:0303/133843.216730:INFO:CONSOLE(2)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator-center-web/static/js/2772.81724dff.js (2)
-[11242:11242:0303/133843.264865:INFO:CONSOLE(2)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator-center-web/static/js/2772.81724dff.js (2)
-[11242:11242:0303/133843.265036:INFO:CONSOLE(2)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator-center-web/static/js/2772.81724dff.js (2)
-[11242:11242:0303/133843.734264:INFO:CONSOLE(0)] "<meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">", source: https://www.tiktok.com/tiktokstudio/upload?lang=en (0)
-[11456:14:0303/133844.202478:INFO:peer_connection_dependency_factory.cc(742)] Running WebRTC with a combined Network and Worker thread.
-[11242:11242:0303/133844.377645:INFO:CONSOLE(1)] "[ Federation Runtime ]: Version 6.22.3 from @pgc-web/creator-studio of shared singleton module react-router-dom does not satisfy the requirement of @pgc-web/web-creation which needs ^6.27.0)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/vmok-remote-entry.58de939e.js (1)
-[11242:11242:0303/133844.423813:INFO:CONSOLE(2)] "web upload is under Vmok mode", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
-[11295:11316:0303/133844.922470:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
-[11295:11316:0303/133845.070248:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133845.132435:INFO:CONSOLE(1)] ".", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.57/webmssdk.js (1)
-[11295:11316:0303/133845.333739:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133845.338745:INFO:CONSOLE(2)] "patch fetch", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9182.af4ca4a2.js (2)
-[11242:11242:0303/133845.345717:INFO:CONSOLE(1)] "[object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133845.522260:INFO:CONSOLE(2)] "spooky", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
-[11242:11242:0303/133845.552295:INFO:CONSOLE(1)] "[ZTI] ready to init ZTI SDK", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133845.648592:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
-[11242:11242:0303/133845.648652:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
-[11295:11316:0303/133845.853751:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133846.054680:INFO:CONSOLE(2)] "sdk uid exp hit", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
-[11242:11242:0303/133846.056191:INFO:CONSOLE(1)] "[ZTI] enableZTI: true", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11295:11316:0303/133846.076786:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
-[11242:11242:0303/133846.093630:INFO:CONSOLE(2)] "zti sdk start", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9182.af4ca4a2.js (2)
-[11242:11242:0303/133846.097337:INFO:CONSOLE(1)] "[ZTI]: va", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133846.150324:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133846.173043:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11295:11316:0303/133846.223116:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133846.270819:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133846.294313:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11295:11316:0303/133846.486527:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133846.652584:INFO:CONSOLE(2)] "startSelectRoute", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
-[11242:11242:0303/133846.724101:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133846.753595:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11295:11316:0303/133846.861271:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133847.001903:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133847.006194:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
-[11295:11316:0303/133847.017996:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133847.285227:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133847.408466:INFO:CONSOLE(1)] "[performance] an error occurred when calling measure(selectVideoFiles,selectVideoFiles-start,selectVideoFiles-end) [object DOMException]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/__federation_expose_routes.7bcede3c.js (1)
-[11242:11242:0303/133847.564202:INFO:CONSOLE(2)] "[video meta] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
-[11242:11242:0303/133847.574461:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20698:1:0307/212509.423800:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
+[20698:1:0307/212509.424723:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[20699:1:0307/212509.430060:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
+[20699:1:0307/212509.430501:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[20624:20624:0307/212509.763318:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.portal.Secret.RetrieveSecret: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Secret” on object at path /org/freedesktop/portal/desktop
+[20624:20624:0307/212509.763620:ERROR:secret_portal_key_provider.cc(150)] Failed to retrieve secret: No response from portal.
+[20672:20672:0307/212510.184027:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[20672:20672:0307/212510.185379:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[20730:1:0307/212510.527989:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
+[20730:1:0307/212510.528235:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[20742:1:0307/212530.374332:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
+[20742:1:0307/212530.376225:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[20753:1:0307/212530.991317:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
+[20753:1:0307/212530.991553:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[20624:20624:0307/212531.023881:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+[20624:20624:0307/212531.239853:INFO:CONSOLE(36)] "Reflect is polyfilled, using `@abraham/reflection`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.2bae6234926dd17738b2.js (36)
+[20624:20624:0307/212531.393015:INFO:CONSOLE(38)] "AppContext will be overwritten", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.2bae6234926dd17738b2.js (38)
+[20624:20624:0307/212531.617062:INFO:CONSOLE(38)] "AppContext will be overwritten", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.2bae6234926dd17738b2.js (38)
+[20624:20624:0307/212531.626549:INFO:CONSOLE(38)] "AppContext will be overwritten", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.2bae6234926dd17738b2.js (38)
+[20624:20624:0307/212531.630082:INFO:CONSOLE(2)] "loadable: `loadableReady()` requires state, please use `getScriptTags` or `getScriptElements` server-side", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/vendor.a55f4a0d2c88685fb47f.js (2)
+[20624:20624:0307/212531.681389:INFO:CONSOLE(38)] "AppContext will be overwritten", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.2bae6234926dd17738b2.js (38)
+[20624:20624:0307/212532.242307:INFO:CONSOLE(1)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/npm-async-882ccf53.0f64b6dd38e4b1954638.js (1)
+[20624:20624:0307/212532.242950:INFO:CONSOLE(1)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/npm-async-882ccf53.0f64b6dd38e4b1954638.js (1)
+[20624:20624:0307/212532.243056:INFO:CONSOLE(1)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/npm-async-882ccf53.0f64b6dd38e4b1954638.js (1)
+[20624:20624:0307/212532.762680:INFO:CONSOLE(36)] "[TikTok desktop app SDK Monitor]:   turn on listening to DOWNLOAD_FILE_FINISHED failed, env is not in client.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/webapp-desktop.2bae6234926dd17738b2.js (36)
+[20624:20624:0307/212533.064734:INFO:CONSOLE(1)] "%c %s color: #4D1B00; [Tea instance: default] [instance: default], every instance's api: init,  can be call only one time!", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/webapp/main/react-v17/webapp-desktop/npm-dp-byted-tea-sdk-oversea.9fa9b862559aa53246ca.js (1)
+[20624:20624:0307/212533.219657:INFO:CONSOLE(1)] ".", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.170/webmssdk.js (1)
+[20742:15:0307/212534.556656:INFO:peer_connection_dependency_factory.cc(742)] Running WebRTC with a combined Network and Worker thread.
+[20624:20624:0307/212534.701615:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
+[20624:20624:0307/212534.792566:INFO:CONSOLE(27324)] "get storage [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
+[20624:20624:0307/212534.792744:INFO:CONSOLE(27324)] "getPubKeyBase64 from raw undefined", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
+[20624:20624:0307/212534.994580:INFO:CONSOLE(27324)] "jsrsasignPerformance duration 203 getPubKeyBase64", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
+[20624:20624:0307/212534.994741:INFO:CONSOLE(27324)] "getPubKeyBase64 from method BPbwgf+9+l21NmdNRiXIpVae7OmcIwTMEfDwZG1B+gud0J6DaYZhrHOu72WYJCzd6uqrDTYgVShUyS6n5DjaXaA=", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
+[20624:20624:0307/212535.001211:INFO:CONSOLE(5832)] "zti process sign data [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/request/umd/index.js (5832)
+[20624:20624:0307/212535.082999:INFO:CONSOLE(27324)] "sign duration 80 jsrsasign", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
+[20624:20624:0307/212535.083693:INFO:CONSOLE(27324)] "crypto sign [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/crypto/umd/index.js (27324)
+[20624:20624:0307/212535.241794:INFO:CONSOLE(2)] "web upload is under Iframe mode", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
+[20624:20624:0307/212535.765002:INFO:CONSOLE(5832)] "request duration [object Object]", source: https://sf16-website.neutral.ttwstatic.com/obj/tiktok_web_static/zti/1.0.0.26/request/umd/index.js (5832)
+[20624:20624:0307/212536.490392:INFO:CONSOLE(2)] "patch fetch", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9182.af4ca4a2.js (2)
+[20624:20624:0307/212536.491634:INFO:CONSOLE(1)] "[object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20676:20681:0307/212536.758557:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
+[20676:20681:0307/212536.777448:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
+[20624:20624:0307/212537.002741:INFO:CONSOLE(1)] ".", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.57/webmssdk.js (1)
+[20676:20681:0307/212537.114709:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212537.246182:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
+[20676:20681:0307/212537.372074:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212537.376604:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212537.627189:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212537.661222:INFO:CONSOLE(0)] "Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.", source: https://www.tiktok.com/upload?lang=en (0)
+[20676:20681:0307/212537.892216:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212537.961943:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212537.987786:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212538.061985:INFO:CONSOLE(2)] "spooky", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
+[20624:20624:0307/212538.099320:INFO:CONSOLE(1)] "[ZTI] ready to init ZTI SDK", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20676:20681:0307/212538.143180:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20742:15:0307/212538.234906:INFO:peer_connection_dependency_factory.cc(742)] Running WebRTC with a combined Network and Worker thread.
+[20624:20624:0307/212538.347373:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[20624:20624:0307/212538.347419:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[20624:20624:0307/212538.381566:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212538.408052:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212538.738560:INFO:CONSOLE(2)] "startSelectRoute", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
+[20624:20624:0307/212538.824433:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212538.904915:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20676:20681:0307/212538.930386:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20797:1:0307/212538.944064:WARNING:runtime_features.cc(673)] AttributionReporting cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement in addition.
+[20797:1:0307/212538.945119:WARNING:runtime_features.cc(687)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[20676:20681:0307/212539.161241:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212539.233873:INFO:CONSOLE(2)] "sdk uid exp hit", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
+[20624:20624:0307/212539.236562:INFO:CONSOLE(1)] "[ZTI] enableZTI: true", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212539.289777:INFO:CONSOLE(2)] "zti sdk start", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9182.af4ca4a2.js (2)
+[20624:20624:0307/212539.301204:INFO:CONSOLE(1)] "[ZTI]: va", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20676:20681:0307/212539.396123:WARNING:spdy_session.cc(2981)] Received HEADERS for invalid stream 165
+[20624:20624:0307/212539.487300:INFO:CONSOLE(1)] ".", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.162/webmssdk.js (1)
+[20624:20624:0307/212539.633137:INFO:CONSOLE(2)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator-center-web/static/js/2772.81724dff.js (2)
+[20624:20624:0307/212539.640080:INFO:CONSOLE(2)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator-center-web/static/js/2772.81724dff.js (2)
+[20624:20624:0307/212539.677526:INFO:CONSOLE(2)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator-center-web/static/js/2772.81724dff.js (2)
+[20624:20624:0307/212539.677803:INFO:CONSOLE(2)] "[DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator-center-web/static/js/2772.81724dff.js (2)
+[20624:20624:0307/212539.952897:INFO:CONSOLE(0)] "<meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes">", source: https://www.tiktok.com/tiktokstudio/upload?lang=en (0)
+[20624:20624:0307/212540.395051:INFO:CONSOLE(1)] "[ Federation Runtime ]: Version 6.22.3 from @pgc-web/creator-studio of shared singleton module react-router-dom does not satisfy the requirement of @pgc-web/web-creation which needs ^6.27.0)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/vmok-remote-entry.58de939e.js (1)
+[20624:20624:0307/212540.448672:INFO:CONSOLE(2)] "web upload is under Vmok mode", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
+[20753:14:0307/212540.887203:INFO:peer_connection_dependency_factory.cc(742)] Running WebRTC with a combined Network and Worker thread.
+[20624:20624:0307/212541.043094:INFO:CONSOLE(1)] ".", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/webmssdk/1.0.0.57/webmssdk.js (1)
+[20624:20624:0307/212541.320379:INFO:CONSOLE(2)] "patch fetch", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9182.af4ca4a2.js (2)
+[20624:20624:0307/212541.322131:INFO:CONSOLE(1)] "[object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212541.492274:INFO:CONSOLE(2)] "spooky", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
+[20624:20624:0307/212541.526066:INFO:CONSOLE(1)] "[ZTI] ready to init ZTI SDK", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212541.612187:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[20624:20624:0307/212541.612242:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[20624:20624:0307/212541.616195:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20676:20681:0307/212541.639390:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
+[20624:20624:0307/212541.645205:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20676:20681:0307/212541.764108:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212541.834217:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212541.858918:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20676:20681:0307/212542.017169:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212542.258609:INFO:CONSOLE(2)] "sdk uid exp hit", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
+[20624:20624:0307/212542.259939:INFO:CONSOLE(1)] "[ZTI] enableZTI: true", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212542.279841:INFO:CONSOLE(2)] "zti sdk start", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9182.af4ca4a2.js (2)
+[20624:20624:0307/212542.283525:INFO:CONSOLE(1)] "[ZTI]: va", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212542.451936:INFO:CONSOLE(2)] "startSelectRoute", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
+[20624:20624:0307/212542.493103:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212542.513023:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20676:20681:0307/212542.533635:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212543.013783:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
+[20676:20681:0307/212543.038989:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212543.075250:WARNING:host_resolver_dns_task.cc(860)] Address list empty after RFC3484 sort
+[20676:20681:0307/212543.075796:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212543.121758:INFO:CONSOLE(1)] "[performance] an error occurred when calling measure(selectVideoFiles,selectVideoFiles-start,selectVideoFiles-end) [object DOMException]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/__federation_expose_routes.7bcede3c.js (1)
+[20624:20624:0307/212543.227734:INFO:CONSOLE(2)] "[video meta] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
+[20624:20624:0307/212543.235748:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -123,7 +118,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.575228:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.236272:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -134,7 +129,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.575779:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.236836:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -145,7 +140,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.576231:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.237304:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -156,7 +151,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.576992:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.238015:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at i.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -167,7 +162,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.577594:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.238796:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at i.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -178,7 +173,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.578422:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.239275:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -189,7 +184,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.579013:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.239952:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -200,7 +195,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.580014:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.240796:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -211,7 +206,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.580909:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.241878:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -222,7 +217,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.581929:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.242348:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -233,7 +228,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.582872:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.243430:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -244,7 +239,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.583904:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.244264:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -255,7 +250,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.584775:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.245248:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -266,7 +261,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.585945:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.246174:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at o.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -277,7 +272,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.586941:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.247182:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at o.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -288,7 +283,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.588685:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.248080:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -299,7 +294,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.589683:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.249130:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -310,7 +305,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.591217:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.250571:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -321,7 +316,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.592490:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.251942:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -332,7 +327,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.593841:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.253373:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -343,7 +338,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.595162:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.254782:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -354,7 +349,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.596022:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.255215:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -365,7 +360,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.597094:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.255955:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -376,7 +371,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.598275:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.257016:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Fn.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -387,7 +382,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.599063:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.257607:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Fn.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -398,7 +393,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.599874:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.258448:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -409,7 +404,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.600517:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.259317:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -420,7 +415,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.601181:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.259640:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -431,7 +426,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.601874:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.260690:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -442,7 +437,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.602812:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.261262:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -453,7 +448,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.603376:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.262260:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -464,7 +459,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.604085:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.262584:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -475,7 +470,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.604888:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.263344:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -486,7 +481,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.605837:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.263911:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -497,7 +492,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.606529:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.264625:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -508,7 +503,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.607430:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.265223:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -519,7 +514,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.608301:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.265725:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -530,7 +525,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.609344:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.266533:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -541,7 +536,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.610545:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.267561:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -552,7 +547,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.611554:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.268164:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -563,7 +558,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.612431:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.269991:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -574,7 +569,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.613990:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.270384:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -585,7 +580,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.615318:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.272678:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -596,7 +591,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.616630:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.272948:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -607,7 +602,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.617777:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.274209:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at r.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -618,7 +613,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.619053:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.275542:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -629,7 +624,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.620298:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.279498:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -640,7 +635,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.621367:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.279696:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -651,7 +646,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.622137:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.279806:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -662,7 +657,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.622809:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.280587:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -673,7 +668,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.623473:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.280734:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at Ve.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -684,7 +679,7 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.624605:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.280820:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:38030)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:40461)
@@ -695,7 +690,7 @@
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.625004:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
+[20624:20624:0307/212543.281341:INFO:CONSOLE(2)] "iterable.length has been deprecated, use iterable.size or iterable.count(). This warning will become a silent error in a future version. Error
     at kt.get (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js:2:1088659)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:11133)
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2907)
@@ -706,48 +701,59 @@
     at https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6075
     at t.exports (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:2324)
     at t (https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/lib-lodash.d43d0da3.js:1:6033)", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/6531.b8b6c4ae.js (2)
-[11242:11242:0303/133847.706816:INFO:CONSOLE(2)] "[video meta] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
-[11295:11316:0303/133847.798752:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133847.890989:INFO:CONSOLE(2)] "[video meta] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
-[11242:11242:0303/133847.904488:INFO:CONSOLE(2)] "completeSelectRoute:  [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
-[11295:11316:0303/133848.018409:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133848.119476:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133848.169705:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133848.207425:INFO:CONSOLE(1)] "[performance] an error occurred when calling measure(file_1741009127424_778234-VIDEO_READY~file_1741009127424_778234-VIDEO_EDIT_READY,file_1741009127424_778234-VIDEO_READY,file_1741009127424_778234-VIDEO_EDIT_READY) [object DOMException]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/__federation_expose_routes.7bcede3c.js (1)
-[11242:11242:0303/133848.277026:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133848.344538:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11242:11242:0303/133848.391427:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
-[11295:11316:0303/133848.814332:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133848.870857:INFO:CONSOLE(1)] "Uncaught DataError: Failed to execute 'decode' on 'VideoDecoder': A key frame is required after configure() or flush().", source: https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/ies/creator_center/static/js/async/226.bace28f1.js (1)
-[11295:11316:0303/133848.876906:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133848.975671:INFO:CONSOLE(1)] "Uncaught DataError: Failed to execute 'decode' on 'VideoDecoder': A key frame is required after configure() or flush().", source: https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/ies/creator_center/static/js/async/226.bace28f1.js (1)
-[11242:11242:0303/133849.038011:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11242:11242:0303/133849.038186:INFO:CONSOLE(0)] "Uncaught (in promise) OperationError: Unsupported configuration. Check isConfigSupported() prior to calling configure().", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (0)
-[11242:11242:0303/133849.038291:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11242:11242:0303/133849.038399:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11242:11242:0303/133849.038495:INFO:CONSOLE(0)] "Uncaught (in promise) OperationError: Unsupported configuration. Check isConfigSupported() prior to calling configure().", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (0)
-[11242:11242:0303/133849.038730:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11242:11242:0303/133849.373322:INFO:CONSOLE(2)] "preUpload:  [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
-[11242:11242:0303/133849.502858:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11242:11242:0303/133849.503004:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11242:11242:0303/133849.503122:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11242:11242:0303/133849.503227:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11242:11242:0303/133849.507377:INFO:CONSOLE(2)] "Uncaught (in promise) InvalidStateError: Failed to execute 'decode' on 'VideoDecoder': Cannot call 'decode' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11242:11242:0303/133849.507927:INFO:CONSOLE(2)] "Uncaught (in promise) InvalidStateError: Failed to execute 'decode' on 'VideoDecoder': Cannot call 'decode' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
-[11295:11316:0303/133850.033094:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133850.829968:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11242:11242:0303/133852.856201:INFO:CONSOLE(2)] "complete [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
-[11295:11316:0303/133852.892540:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133854.048737:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133854.845585:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133900.908106:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133902.064352:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133902.861245:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133908.923750:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133910.080000:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133910.876831:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133916.939698:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133918.095610:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[11295:11316:0303/133918.892537:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
-[12002:12002:0303/134112.262440:ERROR:gpu_blocklist.cc(71)] Unable to get gpu adapter
-[11242:11242:0303/134112.262779:ERROR:service_client.cc(36)] Unexpected on_device_model service disconnect: The device's GPU is not supported.
+[20676:20681:0307/212543.298444:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212543.329646:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212543.366153:INFO:CONSOLE(2)] "[video meta] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
+[20676:20681:0307/212543.548410:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212543.556446:INFO:CONSOLE(2)] "[video meta] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/288.7bec6af5.js (2)
+[20624:20624:0307/212543.564830:INFO:CONSOLE(2)] "completeSelectRoute:  [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
+[20624:20624:0307/212543.747157:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212543.787135:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20676:20681:0307/212543.814063:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212543.817074:INFO:CONSOLE(1)] "[performance] an error occurred when calling measure(file_1741382743128_98443-VIDEO_READY~file_1741382743128_98443-VIDEO_EDIT_READY,file_1741382743128_98443-VIDEO_READY,file_1741382743128_98443-VIDEO_EDIT_READY) [object DOMException]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/__federation_expose_routes.7bcede3c.js (1)
+[20676:20681:0307/212543.847032:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212543.871560:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212543.913929:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212543.955888:INFO:CONSOLE(1)] "[enableDescriptionReform] [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/9843.173e8692.js (1)
+[20624:20624:0307/212544.393865:INFO:CONSOLE(1)] "Uncaught DataError: Failed to execute 'decode' on 'VideoDecoder': A key frame is required after configure() or flush().", source: https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/ies/creator_center/static/js/async/226.bace28f1.js (1)
+[20624:20624:0307/212544.677243:INFO:CONSOLE(1)] "Uncaught DataError: Failed to execute 'decode' on 'VideoDecoder': A key frame is required after configure() or flush().", source: https://sf16-website-login.neutral.tiktokcdn-eu.com/obj/tiktok_web_login_static_eu/ies/creator_center/static/js/async/226.bace28f1.js (1)
+[20624:20624:0307/212544.765450:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20624:20624:0307/212544.765914:INFO:CONSOLE(0)] "Uncaught (in promise) OperationError: Unsupported configuration. Check isConfigSupported() prior to calling configure().", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (0)
+[20624:20624:0307/212544.769430:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20624:20624:0307/212544.773973:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20624:20624:0307/212544.774264:INFO:CONSOLE(0)] "Uncaught (in promise) OperationError: Unsupported configuration. Check isConfigSupported() prior to calling configure().", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (0)
+[20624:20624:0307/212544.774391:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20676:20681:0307/212544.829633:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212544.863119:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212545.008352:INFO:CONSOLE(2)] "preUpload:  [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
+[20624:20624:0307/212545.130067:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20624:20624:0307/212545.130600:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20624:20624:0307/212545.131259:INFO:CONSOLE(2)] "Uncaught (in promise) InvalidStateError: Failed to execute 'decode' on 'VideoDecoder': Cannot call 'decode' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20624:20624:0307/212545.131397:INFO:CONSOLE(2)] "Uncaught (in promise) InvalidStateError: Failed to execute 'decode' on 'VideoDecoder': Cannot call 'decode' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20624:20624:0307/212545.132727:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20624:20624:0307/212545.132853:INFO:CONSOLE(2)] "Uncaught InvalidStateError: Failed to execute 'reset' on 'VideoDecoder': Cannot call 'reset' on a closed codec.", source: https://www.tiktok.com/creator/worker/capture.bc1c6d4c.js?web_creation_version=online (2)
+[20676:20681:0307/212545.564480:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212546.845365:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212546.879309:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212549.579646:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212550.861153:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212550.892231:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20624:20624:0307/212552.300036:INFO:CONSOLE(2)] "complete [object Object]", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/ies/creator_center/static/js/async/UploadPage.1b260a82.js (2)
+[20676:20681:0307/212557.595267:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212558.876525:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212558.907772:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212605.610876:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212606.892138:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212606.923388:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212613.626503:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212614.907769:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20676:20681:0307/212614.939024:INFO:socket_udp.cc(477)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[20753:15:0307/212621.642056:ERROR:stun_port.cc(102)] Binding request timed out from [0:0:0:x:x:x:x:x]:50923 (any)
+[20624:20624:0307/212622.174329:INFO:CONSOLE(1)] "[ttastra-runtime][warning]: importing getVGeo from '@ttastra/core/runtime' is deprecated, please update import path to '@ttastra/core/regions'. for example: import { getVGeo } from '@ttastra/core/runtime/regions';
+", source: https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok/web/pgc_micro_fe_shared/static/js/async/333.fbb009e4.js (1)
+[20753:15:0307/212622.923309:ERROR:stun_port.cc(102)] Binding request timed out from [0:0:0:x:x:x:x:x]:35473 (any)
+[20753:15:0307/212622.954606:ERROR:stun_port.cc(102)] Binding request timed out from [0:0:0:x:x:x:x:x]:55743 (any)
+[20832:20832:0307/212810.125396:ERROR:gpu_blocklist.cc(71)] Unable to get gpu adapter
+[20624:20624:0307/212810.125695:ERROR:service_client.cc(36)] Unexpected on_device_model service disconnect: The device's GPU is not supported.
+[20624:20624:0307/221615.245260:ERROR:atom_cache.cc(229)] Add WM_CHANGE_STATE to kAtomsToCache
+[20624:20624:0307/222226.872538:WARNING:compositor_animation_observer.cc(66)] CompositorAnimationObserver is active for too long (371.619s) location=Button@ui/views/controls/button/button.cc:671

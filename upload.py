@@ -14,7 +14,7 @@ def tiktok_upload_post(driver, file_path, caption=""):
         file_input = wait.until(EC.presence_of_element_located((By.XPATH, "//input[@type='file']")))
     except Exception as e:
         print("File input element not found:", e)
-        return False  # Did not complete upload process
+        return False
     
     # Send the absolute file path.
     try:
@@ -26,7 +26,7 @@ def tiktok_upload_post(driver, file_path, caption=""):
     
     # Wait for the upload process to start/complete.
     print("Waiting for file upload to start...")
-    time.sleep(20)  # Adjust if uploads are slower
+    time.sleep(20)  # Adjust if uploads are slow
     
     # Input the caption.
     try:
@@ -37,22 +37,36 @@ def tiktok_upload_post(driver, file_path, caption=""):
     except Exception as e:
         print("Error entering caption:", e)
     
-    # Wait 15 seconds before clicking Post.
+    # Wait 15 seconds before attempting to click the Post button.
     print("Waiting 15 seconds before clicking Post...")
     time.sleep(15)
     
-    # Try to click the Post button.
-    try:
-        print("Attempting to locate and click the Post button...")
-        post_button = driver.find_element(By.XPATH, "//button[@data-e2e='post_video_button']")
-        driver.execute_script("arguments[0].scrollIntoView(true);", post_button)
-        time.sleep(1)
-        post_button.click()
-        print("Clicked Post button successfully.")
-        return True
-    except Exception as e:
-        print("Error clicking Post button:", e)
-        return False
+    # Retry loop to click the Post button automatically.
+    retry_timeout = 60  # seconds
+    start_time = time.time()
+    clicked = False
+    while time.time() - start_time < retry_timeout:
+        try:
+            print("Attempting to locate and click the Post button...")
+            post_button = driver.find_element(By.XPATH, "//button[@data-e2e='post_video_button']")
+            driver.execute_script("arguments[0].scrollIntoView(true);", post_button)
+            time.sleep(1)
+            post_button.click()
+            print("Clicked Post button successfully.")
+            clicked = True
+            break
+        except Exception as e:
+            print("Error clicking Post button:", e)
+            print("Retrying in 5 seconds...")
+            time.sleep(5)
+    
+    if not clicked:
+        print("Failed to click the Post button after retrying for {} seconds.".format(retry_timeout))
+    else:
+        # Allow time for the post process to complete.
+        time.sleep(10)
+    
+    return clicked
 
 def main():
     folder_path = "downloaded_tiktoks"
@@ -86,24 +100,18 @@ def main():
             # Open a new tab for the upload page.
             driver.execute_script("window.open('https://www.tiktok.com/upload?lang=en', '_blank');")
             driver.switch_to.window(driver.window_handles[-1])
-            time.sleep(10)
+            time.sleep(10)  # Allow the upload page to load
             
             posted = tiktok_upload_post(driver, file_path, caption=caption)
             
-            if posted:
-                print("Upload successful. Closing current tab.")
-                driver.close()
-                driver.switch_to.window(main_window)
-            else:
-                print("Post button was not successfully clicked. Please manually post the video in the current tab.")
-                input("Press Enter after you have manually posted the video to continue with the next upload...")
-                driver.close()
-                driver.switch_to.window(main_window)
+            # Close the current tab and return to the main window.
+            driver.close()
+            driver.switch_to.window(main_window)
             
             # Wait 1 hour before processing the next video, if any remain.
             if idx < total_files - 1:
-                print("Waiting 1 hour before uploading the next video...")
-                time.sleep(3600)
+                print("Waiting 3 hour before uploading the next video...")
+                time.sleep(10800)
     
     print("Finished uploading. Closing browser.")
     driver.quit()
